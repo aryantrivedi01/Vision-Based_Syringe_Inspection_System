@@ -1,0 +1,11 @@
+# Ignore local Python cache
+__pycache__/
+*.pyc
+
+# Ignore local system files
+.DS_Store
+Thumbs.db
+
+# Ignore any local text logs you might create
+structure.txt
+*.log
