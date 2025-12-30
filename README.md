@@ -19,3 +19,5 @@ An automated, industrial-grade inspection system developed for the medical manuf
 - **Language:** Python
 - **Libraries:** OpenCV, NumPy, Ultralytics, PiCamera2
 - **Hardware:** Raspberry Pi 4, High-Resolution Camera Module
+
+![Syringe GUI Detection Feed](GUI.png)
